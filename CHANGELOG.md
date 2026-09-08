@@ -1,3 +1,9 @@
+## [v7.18.0](https://github.com/docling-project/docling-parse/releases/tag/v7.18.0) - 2026-09-08
+
+### Feature
+
+* Resolve-bookmarks-using-page-aware-PDF-outlines ([#341](https://github.com/docling-project/docling-parse/issues/341)) ([`e6b04ca`](https://github.com/docling-project/docling-parse/commit/e6b04cab04f3d29ffd86ceb75b0d2a5548f96c97))
+
 ## [v7.17.0](https://github.com/docling-project/docling-parse/releases/tag/v7.17.0) - 2026-09-02
 
 ### Feature
